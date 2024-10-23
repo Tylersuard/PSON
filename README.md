@@ -4,7 +4,7 @@
 
 Ah, JSON. The supposed "lightweight data-interchange format." Sure, it's easy for machines to parse and generate, but have you ever tried writing it by hand? Yes, because nothing says "user-friendly" quite like typing endless braces, quotes, and commas, only to have a tiny syntax error throw everything into chaos. What's that, JSON? A single missing comma? Well, I guess my entire weekend is ruined now.
 
-Enter **PSON**, the Python Simple Object Notation. It's JSON, but for people who actually want to *enjoy* their lives. Forget about JavaScript's syntax rules and embrace the beauty of Python syntax. No more unnecessary double quotes, no more tears—just Python goodness in all its simplicity.
+Enter **PSON**, the Python Simple Object Notation. It's JSON, but for people who actually want to *enjoy* their coding. Forget about JavaScript's syntax rules and embrace the beauty of Python syntax. No more unnecessary double quotes, no more tears—just Python goodness in all its simplicity.
 
 ## Why PSON?
 
